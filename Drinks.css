@@ -1,0 +1,29 @@
+.Drinks{
+    object-position: center;
+    height: 200px;
+    border: solid 10px gold;
+}
+#change{
+border-radius:200px;
+
+}
+.drinks_icon{
+    height: 100px;
+    border-radius:100%;
+    object-position: center;
+}
+#change2{
+    border-radius:200px;
+    height:100px;
+    object-position: center;
+    }
+    .foods_icon{
+        height: 100px;
+        border-radius:100%;
+        object-position: center;
+    }
+    .price{
+position: absolute;
+    bottom: 8px;
+    right: 16px;
+}

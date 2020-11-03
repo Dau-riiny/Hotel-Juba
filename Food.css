@@ -1,0 +1,65 @@
+body{
+/*background-image:url(Drinks/drinksbg.jpg);*/
+background-color:orangered;
+
+
+}
+#mode{
+
+    background-color:maroon;
+}
+#name{
+    text-align: center;
+}
+#aa{
+    object-position: center;
+    height: 200px;
+    border: solid 10px gold;
+}
+#bb{
+object-position: center;
+height: 200px;
+border: solid 10px gold;
+}
+.cc{
+object-position: center;
+height: 200px;
+border: solid 10px gold;
+
+}
+#info{
+    object-position: bottom;
+    font-style: italic;
+    font-size: 20px;
+    background-color:orangered;
+    color:white;
+}
+#fivestar{
+color: rgb(5, 59, 41);
+font-style: oblique;
+}
+
+#stars{
+    height: 100px;
+   /* border: solid 10px gold;*/
+}
+#show{
+
+   font-size:20px;
+   font-style:inherit;
+   baCkground-color:green;
+   border:solid 5px gold; 
+}
+.prices{
+    border:solid 10px gold;
+}
+.hiden{
+    position:center;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+ 
